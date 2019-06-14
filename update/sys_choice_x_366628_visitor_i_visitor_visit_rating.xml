@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="visit_rating" table="x_366628_visitor_i_visitor" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>visit_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1</label>
+            <language>en</language>
+            <name>x_366628_visitor_i_visitor</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 15:51:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb102d74dbc27300ca2361ca0b961912</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 15:57:34</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>visit_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2</label>
+            <language>en</language>
+            <name>x_366628_visitor_i_visitor</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 15:51:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4c0a974dbc27300ca2361ca0b9619f6</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 15:57:34</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>visit_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3</label>
+            <language>en</language>
+            <name>x_366628_visitor_i_visitor</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 15:51:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bc061f4dbc27300ca2361ca0b961970</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 15:57:35</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>visit_rating</element>
+            <name>x_366628_visitor_i_visitor</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-12 15:51:03</sys_created_on>
+            <sys_id>50c021b4dbc27300ca2361ca0b9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>visit_rating</sys_name>
+            <sys_package display_value="visitor info" source="x_366628_visitor_i">387c58a8dbc23300ca2361ca0b9619d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="visitor info">387c58a8dbc23300ca2361ca0b9619d9</sys_scope>
+            <sys_update_name>sys_choice_x_366628_visitor_i_visitor_visit_rating</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-12 15:51:03</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

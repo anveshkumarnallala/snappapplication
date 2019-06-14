@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="visitor" max_length="40" name="x_366628_visitor_i_visitor" sizeclass="3" type="collection">
+        <element choice="1" label="Anveshkumar" max_length="40" name="anveshkumar" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Email" value="anvesh kumar"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="date and time" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="retDate" max_length="40" name="u_glide_date_time_2" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="reqDate" max_length="40" name="u_glide_date_time_3" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="improvement suggestion" max_length="40" name="u_string_1" type="string"/>
+        <element choice="1" label="visit rating" max_length="40" name="visit_rating" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>

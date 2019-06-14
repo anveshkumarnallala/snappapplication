@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="log incident visitor backup" max_length="40" name="x_366628_visitor_i_log_incident_visitor_backup" type="collection">
+        <element label="Description" max_length="100" name="description" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
